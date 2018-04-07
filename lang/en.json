@@ -169,7 +169,7 @@
     "skippos": "\/me [@%%NAME%%] DJs will now be moved to position %%POSITION%% when skipped.",
     "lockguardtime": "\/me [@%%NAME%%] The lockguard is set to %%TIME%% minute(s).",
     "maxlengthtime": "\/me [@%%NAME%%] The maximum song duration is set to %%TIME%% minutes.",
-    "motdset": "\/me MotD set to:  %%MSG%%",
+    "motdset": "\/me MotD set to :  %%MSG%%",
     "motdintervalset": "\/me MotD interval set to %%INTERVAL%%.",
     "currentbotname": "\/me Bot name currently set to: %%BOTNAME%%",
     "botnameset": "\/me Bot name now set to: %%BOTNAME%%",
